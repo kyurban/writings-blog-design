@@ -4,7 +4,7 @@ A simple static webpage built using HTML and CSS.
 
 ![image](https://github.com/user-attachments/assets/be881219-cf76-48a2-98f0-69a6ce6e10a8)
 
-##Steps to Open Webpage
+## Steps to Open Webpage
 
 1. Clone the Repository
 
