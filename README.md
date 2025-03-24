@@ -10,4 +10,4 @@ Static webpage built using HTML and CSS
 git clone https://github.com/kyurban/writings-blog-design.git
 cd project-name
 ```
-## Open ```index.html in Browser
+Open `index.html` in Browser
